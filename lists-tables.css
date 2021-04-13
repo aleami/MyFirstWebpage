@@ -238,7 +238,7 @@
                     
                     }
 
-                    .head-body-foot thead {
+                    .head-body-foot thead td, th{
 
                         color:whitesmoke;
                         
@@ -246,7 +246,7 @@
                         
                         }
                         
-                        .head-body-foot tbody td, th{
+                        .head-body-foot tbody {
                         
                         color: black;
                         
