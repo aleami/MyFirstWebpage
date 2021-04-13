@@ -246,7 +246,7 @@
                         
                         }
                         
-                        .head-body-foot tbody {
+                        .head-body-foot tbody td, th{
                         
                         color: black;
                         
