@@ -241,7 +241,7 @@
                     
                     }
 
-                    .head-body-foot thead td, th{
+                    .head-body-foot thead {
 
                         color:whitesmoke;
                         
@@ -270,6 +270,6 @@
                         }
                         .head-body-foot thead:hover {
 
-                            background-color: #f053ce;
+                            background-color: #c7050f;
                             
                             }
