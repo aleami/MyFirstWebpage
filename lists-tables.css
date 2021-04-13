@@ -237,3 +237,36 @@
                     background-color: rgb(46, 255, 238);
                     
                     }
+
+                    .head-body-foot thead {
+
+                        color:whitesmoke;
+                        
+                        background-color: rgb(243, 9, 87);
+                        
+                        }
+                        
+                        .head-body-foot tbody {
+                        
+                        color: black;
+                        
+                        font-weight: bold;
+                        
+                        background-color: rgba(247, 236, 241, 0.699);
+                        
+                        }
+                        
+                        .head-body-foot tfoot {
+                        
+                        color: rgb(5, 4, 0);
+                        
+                        background-color: rgb(46, 255, 238);
+                        
+                        font-weight:bold ;
+                        
+                        }
+                        .head-body-foot thead:hover {
+
+                            background-color: #f053ce;
+                            
+                            }
