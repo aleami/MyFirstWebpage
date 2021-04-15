@@ -241,6 +241,8 @@
                     
                     }
 
+                    
+
                     .head-body-foot thead {
 
                         color:whitesmoke;
@@ -255,7 +257,7 @@
                         
                         font-weight: bold;
                         
-                        background-color: rgba(247, 236, 241, 0.699);
+                        background-color: rgba(247, 236, 241, 0.863);
                         
                         }
                         
@@ -268,8 +270,54 @@
                         font-weight:bold ;
                         
                         }
+                
                         .head-body-foot thead:hover {
 
-                            background-color: #c7050f;
-                            
-                            }
+                        background-color: rgb(172, 2, 2);
+                                
+                     }
+                     .head-body-foot tfoot:hover{
+                        background-color: rgb(4, 172, 158);
+                     }
+                     
+                     .head-body-foot tbody:hover{
+                        background-color: rgb(204, 46, 252);
+                     }
+
+
+                     .scroll-bar{
+                         overflow-x: auto;
+                         box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.15);
+                         
+                     }
+
+                     .table-image {
+
+                        margin: 0 auto;
+                        
+                        }
+
+                    table.GeneratedTable {
+                        margin: 0 auto;
+                        background-color: rgb(228, 225, 225);
+                        border-collapse: collapse;
+                        border-width: 4px;
+                        border-color: rgb(46, 255, 238);
+                        border-style: dotted;
+                        color: #000000;
+                      }
+
+                    table.GeneratedTable td, table.GeneratedTable th {
+                        border-width: 4px;
+                        border-color: rgb(46, 255, 238);
+                        border-style: dotted;
+                        padding: 3px;
+                      }
+
+                    table.GeneratedTable thead {
+                        background-color: rgb(243, 9, 87);
+                        }
+
+
+
+                    
