@@ -35,9 +35,9 @@ ul.navbar li a {
 }
 
 
-ul.navbar li a:hover:not(.active) {background-color: rgb(202, 32, 75);}
+ul.navbar li a:hover:not(.active) {background-color: #11f5f5;}
 
-ul.navbar li a.active {background-color: rgb(202, 32, 75);}
+ul.navbar li a.active {background-color: #11f5f5;}
 
 ul.navbar li.right {float: right;}
 
